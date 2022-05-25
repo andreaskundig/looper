@@ -1,0 +1,18 @@
+{
+  "name": "@andreaskundig/looper",
+  "type": "module",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":"https://github.com/andreaskundig/bouboucle",
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gifshot": "^0.4.5",
+    "paper": "^0.12.15"
+  }
+}
